@@ -2,7 +2,7 @@
 
 ## A Local Solution to N95 Filtering Facepiece Respirator (FFR) Decontamination
 
-<div align="center" width="75%">
+<div align="center">
   ![UVC Box](images/readme01.png "UVC Box")
 </div>
 
