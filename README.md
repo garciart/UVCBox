@@ -2,7 +2,11 @@
 
 ## A Local Solution to N95 Filtering Facepiece Respirator (FFR) Decontamination
 
-![UVC Box](docs/img/readme01.png "UVC Box")
+<div style="text-align:center; width:75%;">
+  ![UVC Box](images/readme01.png "UVC Box")
+</div>
+
+---
 
 ## Table of Contents
 
@@ -24,6 +28,8 @@
 
 [References](#references)
 
+---
+
 ## Introduction
 
 Due to the COVID-19 pandemic, demand for personal protective equipment (PPE) has quickly outpaced supply. Unfortunately, it appears that high demand for PPE, such as N95-rated respirators, will continue into the summer months, and there are no practical alternatives to these items. In addition, large health care systems quickly collect PPE supply as it appears, reducing the PPE available for smaller systems, such as local fire departments, health care clinics, etc.
@@ -32,13 +38,17 @@ For these local systems, we ask if we can extend our PPE through decontamination
 
 > **NOTE** - Even though we have restricted all citations and references in this paper to articles contained in scientific journals or government publications, the COVID-19 pandemic is an ongoing event, and information presented pertaining to the virus, respirators, decontamination, etc., may quickly change. 
 
+---
+
 ## What are N95 respirators?
 
 A N95 filtering facepiece respirator (FFR) is a tight-fitting respirator that provides the user with respiratory protection against hazardous dust, fumes, and mists. Its design must be evaluated, tested, and approved by the National Institute for Occupational Safety and Health (NIOSH). The respirator is to be used in workplaces free of oil aerosols, and, as stated in its name, the respirator must filter out 95% of particulates 0.3 microns in size or larger, including aerosols in concentration of 200 mg/m3 (Approval of Respiratory Protective Devices, 2004). It uses several layers of randomly interwoven fibers and an electrostatic charge to capture particles before they are inhaled by the user. The respirator provides more protection as it accumulates particles, albeit at the cost of breathing efficiency. The respirator, however, does not neutralize contaminants, whether chemical, biological, or radiological.
 
-![Scanning electron microscopy (SEM) image of meltblown microfiber fabric](docs/img/readme02.png "Scanning electron microscopy (SEM) image of meltblown microfiber fabric")
+![Scanning electron microscopy (SEM) image of meltblown microfiber fabric](images/readme02.jpg "Scanning electron microscopy (SEM) image of meltblown microfiber fabric")
 
-***Figure 1. Scanning electron microscopy (SEM) image of meltblown microfiber fabric (Credit: Stanford University and 4C Air, Inc.).***
+***Figure 1. Scanning electron microscopy (SEM) image of meltblown microfiber fabric (Credit: Stanford University and 4C Air, Inc.)***
+
+---
 
 ## What is Ultraviolet Light?
 
@@ -63,9 +73,15 @@ While ISO-21348 identifies nine (9) sub-types of UV light, the forms of UV light
 
 -	Acute exposure to UVC results in rapid onset of all the acute and chronic effects of UVA and UVB radiation, as well as damage to the RNA of other types of cells, in all organisms, including viruses (Wurtmann & Wolin, 2009).
 
+---
+
 ## What is the Coronavirus?
 
 The infectious disease known as COVID-19 is caused by the Severe Acute Respiratory Syndrome-Related Coronavirus (SARS-CoV-2), a single-stranded RNA virus protected by a lipid bilayer envelope.
+
+![Diagram of coronavirus virion structure](images/readme03.png "Diagram of coronavirus virion structure")
+
+***Figure 2. Diagram of coronavirus virion structure (Credit: Sandrine Belouzard and NIH)***
 
 SARS-CoV-2 infects the cells of the lungs of mammals, including humans, and, when it replicates, it damages or destroys those cells. This action can cause excessive fluid build-up, resulting in shortness of breath, and possibly pneumonia. SARS-CoV-2 can also trigger a hyperactive immune response, causing inflammation and destruction of healthy tissue. Both actions can cause severe respiratory distress and death (Sims, et al., 2005).
 
@@ -73,11 +89,19 @@ The diameter of the SARS-CoV-2 virus ranges from 80 to 140 nm (0.08 to 0.14 micr
 
 While the primary means of infection is inhalation of contaminated aerosols, SARS-CoV-2 can last several days on surfaces as well (Van Doremalen, et al., 2020). From there, the virus can be transmitted by touch to the face and mouth, which may eventually enter the lungs.
 
-## Protection and Decontamination?
+![Viability of SARS-CoV-1 and SARS-CoV-2 in aerosols and on various surfaces](images/readme04.png "Viability of SARS-CoV-1 and SARS-CoV-2 in aerosols and on various surfaces")
+
+***Figure 3. Viability of SARS-CoV-1 and SARS-CoV-2 in aerosols and on various surfaces (Credit: New England Journal of Medicine)***
+
+---
+
+## Protection and Decontamination
 
 Isolation and reducing contact with others (i.e., Social Distancing) are the most effective means of protection from the virus (CDC, 2020a). However, in situations where close interactions cannot be avoided, as with first responders, health care providers, and patients, the Centers for Disease Control and Prevention (CDC) recommend N95 respirators, eye protection, gloves, and gowns. The CDC has also published a set of recommendations for infection prevention and control in health care settings (CDC, 2020b).
 
 Regarding decontamination, SARS-CoV-2 may be eliminated in many ways. Simply using soap and water destroys the virus' protective envelope, causing its proteins to fall apart. Decontaminants, such as isopropyl alcohol, bleach, and hydrogen peroxide, also destroy the virus' envelope within 1 minute (EPA, 2020). Moist heat, at temperatures greater than 60 degrees C (140 degrees F) at 80% relative humidity, can also be used for decontamination (CDC, 2020c).
+
+---
 
 ## Decontaminating N95 Respirators
 
@@ -97,9 +121,15 @@ There are few large-scale respirators decontamination systems appearing during t
 
 Other examples include fumigation using hydrogen peroxide by the Duke University Hospitals and UVC decontamination by the University of Nebraska Medical Center (Mackenzie, 2020). As stated before, the CDC recognizes ultraviolet germicidal irradiation as a viable means to decontaminate N95 respirators. Further research states that SARS-CoV-2's single-stranded RNA is very susceptible to UVC, and that exposing the virus to UVC, at wavelengths between 200-280 nm, for 60 minutes, resulted in virus inactivation of over 99.9% without damage to the respirator (Darnell & Taylor, 2006; Tseng & Li, 2007; Liao, et al., 2020).
 
+---
+
 ## The UVC Box
 
 As stated before, decontamination of N95 respirators is not recommended. However, if necessary, the Battelle CCDS appears to be the most promising solution, if it operates as expected and the clients have enough respirators to cover three or more days of operations. As a backup, we propose another means of decontamination that can be reconstructed using locally sourced items: the UVC Box.
+
+![UVC Box](images/readme01.png "UVC Box")
+
+***Figure 4. UVC Box (Credit: Own work)***
 
 The box is 24" long, 12" in both width and height, with two hanging rods, and is lined with mill-finished aluminum. Except for the UV light module, we procured all the materials to construct the box through local stores, and the light module can be recreated locally as well:
 
@@ -121,9 +151,23 @@ We purchased the UVC light assembly to expedite the build; however, there are le
 
 To line the box, we chose aluminum over other metals for its excellent UV reflectivity, which multiplies the effects of UV light through irradiance and extends the range of UV radiation (ASHRAE, 2015):
 
+![Reflectance vs. wavelength curves for aluminum (Al), silver (Ag), and gold (Au) metal mirrors at normal incidence](images/readme05.png "Reflectance vs. wavelength curves for aluminum (Al), silver (Ag), and gold (Au) metal mirrors at normal incidence")
+
+***Figure 4. Reflectance vs. wavelength curves for aluminum (Al), silver (Ag), and gold (Au) metal mirrors at normal incidence (Credit Bob Mellish)***
+
 We chose not to coat the aluminum surface with glass or other materials, in order to prevent absorption (ASHRAE, 2015). We also did not polish the aluminum surface; diffuse reflection may allow UV energy to reach areas of the N95 respirators that are not directly opposite the angle of incidence. However, polished aluminum increases irradiance, and we recognize we must do further research on the pros and cons of aluminum finishes:
 
-The UVC light is provided by two 8000 hour, 9-watt bulbs, requiring 60 volts each. Each bulb emits 2.4 watts of UVC light per square meter at a wavelength of 253.7 nm. At two feet, one bulb will provide 559.2 microwatts per square centimeter (µW/cm²) (Keitz, 1971; ASHRAE, 2015):
+![Diffuse and specular reflection from a glossy surface](images/readme06.png "Diffuse and specular reflection from a glossy surface")
+
+***Figure 6. Diffuse and specular reflection from a glossy surface (Credit G. Gianni)***
+
+The UVC light is provided by two 8000 hour, 9-watt bulbs, requiring 60 volts each. Each bulb emits 2.4 watts of UVC light per square meter at a wavelength of 253.7 nm.
+
+![UVC lamp system](images/readme07.png "UVC lamp system")
+
+***Figure 7. UVC lamp system (Credit: Own work)***
+
+At two feet, one bulb will provide 559.2 microwatts per square centimeter (µW/cm²) (Keitz, 1971; ASHRAE, 2015):
 
 ***Table 3: UVC Wattage by Distance (1 W/m² = 100 µW/cm²)***
 |Distance (inches)|Intensity Factor|Microwatts per square centimeter (µW/cm²)|
@@ -141,9 +185,13 @@ Once the UV decontamination is complete, we recommend applying heated air from t
 
 Please note that it is important to note that UVC decontamination efficiency drops when the virus is combined with a serum, such as blood albumin (Darnell & Taylor, 2006). Therefore, discard any respirators exposed to bodily fluids or are marked with makeup. In addition, discard any respirators that are compromised (e.g., frayed, etc.) in any way.
 
+---
+
 ## Conclusion
 
 The UVC Box is an easily reproduced and low-cost solution to extending the supply of N95 respirators through decontamination. It can act alone or in conjunction with a mask rotation system, as suggested by the CDC. In addition, it requires no chemicals or solutions and produces no runoff or byproducts. If the situation arises where the local supply of N95 respirators cannot meet demand, the UVC Box can be used to stabilize supply until additional respirators can be procured.
+
+---
 
 ## References
 
